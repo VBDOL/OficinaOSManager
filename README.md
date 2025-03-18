@@ -1,6 +1,6 @@
 # Sistema de Controle de Oficina Mecânica
 
-![Adicione aqui a imagem do esquema conceitual](/sqlmy.PNG)
+![Adicione aqui a imagem do esquema conceitual](/sqlmy.png)
 
 ## Contexto do Projeto
 Este projeto foi desenvolvido com o objetivo de criar um esquema conceitual para um sistema de controle e gerenciamento de ordens de serviço em uma oficina mecânica. O sistema abrange desde o cadastro de clientes e veículos até a execução de serviços e o controle de peças e mão de obra.
@@ -32,8 +32,8 @@ O esquema conceitual foi projetado com as seguintes entidades principais:
 - `documentacao/`: Pasta com descrições detalhadas das entidades e relacionamentos.
 
 ## Observação
+
 Alguns detalhes foram inferidos para complementar a narrativa fornecida. Caso tenha sugestões ou correções, sinta-se à vontade para contribuir.
 
 ---
 
-Com isso, você pode adicionar seu diagrama de esquema conceitual onde está indicado. Se precisar de mais ajuda, é só chamar! 😊
